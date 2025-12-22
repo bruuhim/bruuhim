@@ -1,16 +1,22 @@
-## Hi there 👋
+# hey, i'm bruuhim
 
-<!--
-**bruuhim/bruuhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student • Developer • Content Creator
 
-Here are some ideas to get you started:
+I work with Python, JavaScript, and C++ on projects that range from video encoding automation to anime subtitle tools and game localization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- Video encoding & subtitle workflows (HandBrake, Aegisub, StaxRip)
+- Anime subtitle translation and localization
+- Python automation scripts & Discord integrations
+- Qt/C++ GUI development
+- Counter-Strike 2 optimization
+
+## Links
+
+→ [linktree](https://linktr.ee/bruuhim)
+
+→ [GitHub](https://github.com/bruuhim)
+
+---
+
+*Just building things that matter to me. No BS.*
