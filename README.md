@@ -32,8 +32,6 @@
 <p align="center">
   🔭 Working on <strong>video encoding automation</strong> & <strong>anime subtitle tools</strong>
   <br><br>
-  🌱 Learning <strong>Qt/C++ GUI development</strong>
-  <br><br>
   💻 I just vibe code - no strict languages, just building what works
   <br><br>
   📫 <strong><a href="https://linktr.ee/bruuhim">linktr.ee/bruuhim</a></strong>
