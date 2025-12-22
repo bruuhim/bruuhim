@@ -10,12 +10,13 @@
 
 ## 👋 About Me
 
-Just building things that matter to me. No BS.
+I'm into anime, subtitles, and building tools that make sense. Based in Morocco, just vibing with code—no particular direction, just what works.
 
-- **AniFold** - Anime folder icon magic from MyAnimeList & DeviantArt
-- **Subfinder** - Browser extension for subtitle search on anime/movie sites  
-- **MALSync Arabic** - MyAnimeList integration with Arabic support
-- **mpv Discord RPC** - Discord rich presence for anime watching
+I build things:
+- **Anime integration tools** - Syncing MyAnimeList across platforms with Arabic support
+- **Browser extensions** - Making subtitle hunting easier
+- **Discord automation** - Rich presence for what I'm watching/doing
+- **Python scripting** - Automation that saves time
 
 <br/>
 
