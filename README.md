@@ -14,15 +14,23 @@
 
 ---
 
-### 🙋‍♂️ About Me
+<h3 align="center">🙋‍♂️ About Me</h3>
 
-- 🔭 I'm currently working on **video encoding automation** and **anime subtitle tools**
+<p align="center">
+🔭 I'm currently working on <strong>video encoding automation</strong> and <strong>anime subtitle tools</strong>
+</p>
 
-- 🌱 I'm currently learning **Qt/C++ GUI development**
+<p align="center">
+🌱 I'm currently learning <strong>Qt/C++ GUI development</strong>
+</p>
 
-- 💼 Building tools for **subtitle translation**, **game localization**, and **Discord automation**
+<p align="center">
+💼 Building tools for <strong>subtitle translation</strong>, <strong>game localization</strong>, and <strong>Discord automation</strong>
+</p>
 
-- 📫 Reach me through **[linktr.ee/bruuhim](https://linktr.ee/bruuhim)**
+<p align="center">
+📫 Reach me through <strong><a href="https://linktr.ee/bruuhim">linktr.ee/bruuhim</a></strong>
+</p>
 
 ---
 
