@@ -1,85 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=2E9EF7&center=true&vCenter=true&width=200&lines=bruuhim" alt="bruuhim" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Student+%E2%80%A2+Developer+%E2%80%A2+Content+Creator+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&width=600&lines=Student+%7C+Developer+%7C+Content+Creator" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Video+Encoding+%26+Subtitles;Python+Automation;Discord+Integrations;Just+Vibing" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://linktr.ee/bruuhim">
-    <img src="https://img.shields.io/badge/🔗_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bruuhim&label=visitors&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+## 👋 About Me
 
-<br>
+Just building things that matter to me. No BS.
 
-<div align="center">
+- **AniFold** - Anime folder icon magic from MyAnimeList & DeviantArt
+- **Subfinder** - Browser extension for subtitle search on anime/movie sites  
+- **MALSync Arabic** - MyAnimeList integration with Arabic support
+- **mpv Discord RPC** - Discord rich presence for anime watching
 
-## 🙋‍♂️ About Me
-
-</div>
-
-<p align="center">
-  🔭 Working on <strong>video encoding automation</strong> & <strong>anime subtitle tools</strong>
-  <br><br>
-  💻 I just vibe code - no strict languages, just building what works
-  <br><br>
-  📫 <strong><a href="https://linktr.ee/bruuhim">linktr.ee/bruuhim</a></strong>
-</p>
-
-<br>
-
-<div align="center">
+<br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,lua,qt,vscode,git,github&theme=dark" alt="Tech Stack" />
-</p>
-
-<br>
-
-<div align="center">
+<br/>
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruuhim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF)](https://github.com/bruuhim)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhim&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact)](https://github.com/bruuhim)
+
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bruuhim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bruuhim&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
-</p>
+<br/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" />
-</p>
-
-<br>
+## 🔗 Connect
 
 <div align="center">
 
-## 💻 Activity Graph
+[![Website](https://img.shields.io/badge/Subs-bruuhim.great--site.net-2E9EF7?style=for-the-badge)](https://bruuhim.great-site.net/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bruuhim)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+RML4pQk0w_I5NDE0)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bruuhim)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordid.netlify.app/?id=484782053238505472)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](http://patreon.com/bruuhim)
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruuhim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph" />
-</p>
+<br/>
 
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=footer" />
+</h1>
