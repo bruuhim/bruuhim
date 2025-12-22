@@ -1,48 +1,33 @@
-# bruuhim
+## hey, i'm bruuhim 👋
 
-🎌 Developer • Content Creator • Student
-
-Building tools for video encoding, anime subtitles, and game localization. Passionate about open-source and automation.
+Student and developer from Morocco, working on tools for video encoding, anime subtitles, and game localization.
 
 ---
 
-## About Me
+### what i work with
 
-- **Name:** bruuhim
-- **Based in:** Rabat, Morocco
-- **Field:** Computer Science Student
-- **Proficient in:** Python, JavaScript, C++, Lua
-- **Skilled with:** Video encoding (HandBrake, StaxRip), Subtitle editing (Aegisub), Discord integrations, Qt/C++ development
-- **Languages:** Arabic, English, Japanese (learning)
-- **Interests:** Anime, open-source projects, game localization, content creation
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
----
-
-## Notable Projects
-
-- **AniFold** - Anime folder icon setter with Python automation
-- **Aegisub Discord RPC** - Real-time Discord Rich Presence for subtitle editing
-- **MPV Discord RPC** - Media player integration with Discord status
-- **Anime Subtitle Translation Agent** - Localization workflow automation
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 ---
 
-## Tech Stack
+### currently focused on
 
-**Languages:** Python, JavaScript, C++, Lua, Batch
-
-**Tools & Platforms:** VS Code, GitHub, Git, Discord, Aegisub, HandBrake, StaxRip, MPV, MyAnimeList
-
-**Specializations:** Video encoding, subtitle workflows, Python automation, Discord API, game modding
-
----
-
-## Connect
-
-→ [linktree](https://linktr.ee/bruuhim)
-
-→ [GitHub](https://github.com/bruuhim)
+- video encoding & subtitle workflows (HandBrake, Aegisub, StaxRip)
+- anime subtitle translation and localization
+- python automation & discord integrations
+- qt/c++ gui development
+- game modding and localization
 
 ---
 
-*Just building things that matter to me. No BS.*
+<p align="center">
+  <a href="https://linktr.ee/bruuhim">linktree</a>
+</p>
