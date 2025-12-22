@@ -8,19 +8,19 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-I'm into anime, subtitles, and building tools that make sense. Based in Morocco, just vibing with code—no particular direction, just what works.
+I'm into anime, subtitles, and building tools that make sense. Based in Morocco, just coding and creating.
 
-I build things:
-- **Anime integration tools** - Syncing MyAnimeList across platforms with Arabic support
-- **Browser extensions** - Making subtitle hunting easier
-- **Discord automation** - Rich presence for what I'm watching/doing
-- **Python scripting** - Automation that saves time
+**What I build:**
+- Anime integration tools - Syncing MyAnimeList across platforms with Arabic support
+- Browser extensions - Making subtitle hunting easier
+- Discord automation - Rich presence for what I'm watching/doing
+- Python scripting - Automation that saves time
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -33,7 +33,7 @@ I build things:
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I build things:
 
 <br/>
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
