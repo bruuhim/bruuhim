@@ -22,8 +22,6 @@
 
 - 💼 Building tools for **subtitle translation**, **game localization**, and **Discord automation**
 
-- 🎮 Game modding enthusiast
-
 - 📫 Reach me through **[linktr.ee/bruuhim](https://linktr.ee/bruuhim)**
 
 ---
@@ -64,7 +62,7 @@
 - 🎬 **Video Encoding & Subtitle Workflows** - HandBrake, Aegisub, StaxRip
 - 🗣️ **Anime Subtitle Translation** - Localization and timing
 - 🤖 **Python Automation** - Discord bots and integrations
-- 🎮 **Game Modding** - Localization and pak file manipulation
+- 🎮 **Game Localization** - Translation and pak file manipulation
 - 🖥️ **Qt/C++ Development** - Building GUI applications
 
 ---
