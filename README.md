@@ -2,6 +2,10 @@
 <h3 align="center">Student • Developer • Content Creator from Morocco 🇲🇦</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Video+Encoding+%26+Subtitles;Python+Automation;Game+Localization;Discord+Integrations" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://linktr.ee/bruuhim"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
 </p>
 
@@ -47,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruuhim&theme=tokyonight&hide_border=true" alt="bruuhim's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bruuhim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,6 +68,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bruuhim&label=Profile%20views&color=0e75b6&style=flat" alt="bruuhim" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <p align="center">
