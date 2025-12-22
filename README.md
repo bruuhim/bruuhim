@@ -9,13 +9,11 @@ Currently focused on:
 - Anime subtitle translation and localization
 - Python automation scripts & Discord integrations
 - Qt/C++ GUI development
-- Counter-Strike 2 optimization
+- Game localization and modding
 
 ## Links
 
-→ [linktree](https://linktr.ee/bruuhim)
-
-→ [GitHub](https://github.com/bruuhim)
+→ [linktr.ee/bruuhim](https://linktr.ee/bruuhim)
 
 ---
 
