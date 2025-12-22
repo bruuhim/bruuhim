@@ -60,18 +60,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bruuhim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruuhim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🚀 What I'm Working On
-
-- 🎬 **Video Encoding & Subtitle Workflows** - HandBrake, Aegisub, StaxRip
-- 🗣️ **Anime Subtitle Translation** - Localization and timing
-- 🤖 **Python Automation** - Discord bots and integrations
-- 🎮 **Game Localization** - Translation and pak file manipulation
-- 🖥️ **Qt/C++ Development** - Building GUI applications
 
 ---
 
