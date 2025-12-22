@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=bruuhim&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
 </p>
 
 <h3 align="center">Student • Developer • Content Creator from Morocco 🇲🇦</h3>
