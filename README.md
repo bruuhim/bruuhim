@@ -1,33 +1,71 @@
-## hey, i'm bruuhim 👋
+<h1 align="center">Hi 👋, I'm bruuhim</h1>
+<h3 align="center">Student • Developer • Content Creator from Morocco 🇲🇦</h3>
 
-Student and developer from Morocco, working on tools for video encoding, anime subtitles, and game localization.
-
----
-
-### what i work with
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+<p align="center">
+  <a href="https://linktr.ee/bruuhim"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
+</p>
 
 ---
 
-### currently focused on
+### 🙋‍♂️ About Me
 
-- video encoding & subtitle workflows (HandBrake, Aegisub, StaxRip)
-- anime subtitle translation and localization
-- python automation & discord integrations
-- qt/c++ gui development
-- game modding and localization
+- 🔭 I'm currently working on **video encoding automation** and **anime subtitle tools**
+
+- 🌱 I'm currently learning **Qt/C++ GUI development**
+
+- 💼 Building tools for **subtitle translation**, **game localization**, and **Discord automation**
+
+- 🎮 Game modding enthusiast
+
+- 📫 Reach me through **[linktr.ee/bruuhim](https://linktr.ee/bruuhim)**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruuhim&show_icons=true&theme=tokyonight&hide_border=true" alt="bruuhim's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruuhim&theme=tokyonight&hide_border=true" alt="bruuhim's GitHub Streak" />
+</p>
+
+---
+
+### 🚀 What I'm Working On
+
+- 🎬 **Video Encoding & Subtitle Workflows** - HandBrake, Aegisub, StaxRip
+- 🗣️ **Anime Subtitle Translation** - Localization and timing
+- 🤖 **Python Automation** - Discord bots and integrations
+- 🎮 **Game Modding** - Localization and pak file manipulation
+- 🖥️ **Qt/C++ Development** - Building GUI applications
 
 ---
 
 <p align="center">
-  <a href="https://linktr.ee/bruuhim">linktree</a>
+  <img src="https://komarev.com/ghpvc/?username=bruuhim&label=Profile%20views&color=0e75b6&style=flat" alt="bruuhim" />
+</p>
+
+<p align="center">
+  <i>Just building things that matter to me.</i>
 </p>
