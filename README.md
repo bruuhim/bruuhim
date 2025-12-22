@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Video+Encoding+%26+Subtitles;Python+Automation;Game+Localization;Discord+Integrations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Video+Encoding+%26+Subtitles;Python+Automation;Discord+Integrations;Just+Vibing" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
   <br><br>
   🌱 Learning <strong>Qt/C++ GUI development</strong>
   <br><br>
-  💼 Building <strong>subtitle translation</strong>, <strong>game localization</strong> & <strong>Discord automation</strong> tools
+  💻 I just vibe code - no strict languages, just building what works
   <br><br>
   📫 <strong><a href="https://linktr.ee/bruuhim">linktr.ee/bruuhim</a></strong>
 </p>
