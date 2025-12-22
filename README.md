@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
 </p>
 
-<h1 align="center">bruuhim</h1>
-<h3 align="center">Student • Developer • Content Creator from Morocco 🇲🇦</h3>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=2E9EF7&center=true&vCenter=true&width=200&lines=bruuhim" alt="bruuhim" /></h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Student+%E2%80%A2+Developer+%E2%80%A2+Content+Creator+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="subtitle" /></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Video+Encoding+%26+Subtitles;Python+Automation;Game+Localization;Discord+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Video+Encoding+%26+Subtitles;Python+Automation;Game+Localization;Discord+Integrations" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,14 +60,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bruuhim&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
