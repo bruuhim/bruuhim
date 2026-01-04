@@ -38,11 +38,13 @@ Python scripting • Automation that saves time
 
 <br/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/View%20Stats-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruuhim)
+![GitHub Stats](https://api.github.com/repos/bruuhim/bruuhim/contents/README.md?raw=true&branch=main)
+
+[![bruuhim's GitHub stats](https://quick-stat.vercel.app/api?username=bruuhim&theme=tokyonight)](https://github.com/bruuhim)
 
 </div>
 
