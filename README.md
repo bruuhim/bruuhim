@@ -38,13 +38,11 @@ Python scripting • Automation that saves time
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://stats.hyper.lol/api?username=bruuhim&show_icons=true&theme=tokyonight&bg_color=0D1117&text_color=FFFFFF&border_color=30363D)](https://github.com/bruuhim)
-
-[![Top Languages](https://stats.hyper.lol/api/top-langs/?username=bruuhim&theme=tokyonight&bg_color=0D1117&text_color=FFFFFF&layout=compact&border_color=30363D)](https://github.com/bruuhim)
+[![GitHub Profile](https://img.shields.io/badge/View%20Stats-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruuhim)
 
 </div>
 
