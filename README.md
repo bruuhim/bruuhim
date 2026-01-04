@@ -1,90 +1,72 @@
-# bruuhim
+<div align="center" style="font-family: 'JetBrains Mono', 'Courier New', monospace;">
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header" />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&width=800&lines=Student+%7C+Developer+%7C+Translator" />
+
+<br/>
+
+## 👋 About Me
+
+<p align="center">
+I'm into anime, subtitles, and building tools that make sense. Based in Morocco, just coding and creating.
+</p>
+
+<h3 align="center">What I build:</h3>
+
+<p align="center">
+Anime integration tools • Syncing MyAnimeList across platforms with Arabic support<br/>
+Browser extensions • Making subtitle hunting easier<br/>
+Discord automation • Rich presence for what I'm watching/doing<br/>
+Python scripting • Automation that saves time
+</p>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- Typing animation -->
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=32B8C6&center=true&width=900&lines=Anime+Translator+%7C+Developer+%7C+Open+Source+Enthusiast" />
-</picture>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 </div>
 
----
-
-## 🎯 About Me
-
-I'm a **student** from **Marrakesh, Morocco** passionate about anime, game development, and building automation tools. I focus on **anime translation**, **open-source projects**, and creating tools that simplify everyday tasks.
-
-### What I Do
-
-- 📺 **Anime Translation & Fansubs** - Subtitle editing with Aegisub, typesetting, and quality control
-- 🛠️ **Discord Automation** - Rich presence bots, custom RPC for streaming
-- 🎮 **Game Modding & Translation** - Configuration optimization, game localization
-- 🔧 **Python Automation** - Scripts that save time and eliminate repetitive tasks
-- 🌐 **Browser Extensions** - Enhancing the web experience with custom tools
-- 📚 **Open Source** - Contributing to projects that matter
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-| Language | Use Case |
-|----------|----------|
-| **Python** | Automation, scripting, Discord bots |
-| **TypeScript/JavaScript** | Browser extensions, Seanime plugins |
-| **Lua** | Aegisub scripting, game mods |
-| **Batch/Shell** | System automation, CLI tools |
-
-**Tools:** VSCode, Git, Aegisub, FFmpeg, Discord.py, Fyne
-
-</div>
-
----
-
-## 🚀 Notable Projects
-
-### Current Work
-- **AniFold** - Manga/anime reading and organization tool
-- **Seanime Plugins** - Custom extensions for the Seanime anime tracker
-- **Discord RPC** - Rich presence automation for streaming/gaming
-
-### Archived
-- **MAL-Button-Seanime** - Plugin architecture investigation (documented sandbox limitations)
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruuhim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&rank_icon=github)](https://github.com/bruuhim)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruuhim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF)](https://github.com/bruuhim)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhim&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6)](https://github.com/bruuhim)
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-bruuhim.great--site.net-32B8C6?style=flat-square&logo=globe)](https://bruuhim.great-site.net/)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-0088cc?style=flat-square&logo=telegram)](https://t.me/+RML4pQk0w_I5NDE0)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord)](https://discordid.netlify.app/?id=484782053238505472)
-[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E00?style=flat-square&logo=ko-fi)](https://ko-fi.com/bruuhim)
-[![Patreon](https://img.shields.io/badge/Support-Patreon-F96854?style=flat-square&logo=patreon)](http://patreon.com/bruuhim)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhim&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact)](https://github.com/bruuhim)
 
 </div>
 
----
+<br/>
+
+## 🔗 Connect
 
 <div align="center">
 
-**Exploring anime, code, and automation** • Based in 🇲🇦 Morocco • Open to collaborations
+[![Website](https://img.shields.io/badge/Subs-bruuhim.great--site.net-2E9EF7?style=for-the-badge)](https://bruuhim.great-site.net/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bruuhim)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+RML4pQk0w_I5NDE0)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bruuhim)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordid.netlify.app/?id=484782053238505472)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](http://patreon.com/bruuhim)
 
-*Last updated: January 2026*
+</div>
+
+<br/>
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=footer" />
+</h1>
 
 </div>
