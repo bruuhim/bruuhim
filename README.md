@@ -42,9 +42,9 @@ Python scripting • Automation that saves time
 
 <div align="center">
 
-![GitHub Stats](https://api.github.com/repos/bruuhim/bruuhim/contents/README.md?raw=true&branch=main)
+![GitHub Stats](https://github-readme-stats-five-sigma-46.vercel.app/api?username=bruuhim&theme=dark&show_icons=true)
 
-[![bruuhim's GitHub stats](https://quick-stat.vercel.app/api?username=bruuhim&theme=tokyonight)](https://github.com/bruuhim)
+![Top Languages](https://github-readme-stats-five-sigma-46.vercel.app/api/top-langs/?username=bruuhim&layout=compact&theme=dark)
 
 </div>
 
